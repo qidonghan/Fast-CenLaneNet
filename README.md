@@ -39,7 +39,7 @@ Expected dataset layout:
 Train from scratch on TuSimple:
 
 ```bash
-python A0_Train.py --GtDataroot /path/to/tusimple/train_set/
+python Train.py --GtDataroot /path/to/tusimple/train_set/
 ```
 
 ## Testing on TuSimple
@@ -53,7 +53,7 @@ Code: txxx
 Evaluating tusimple:
 
 ```bash
-python A2_Test_tusimple.py \
+python Test_tusimple.py \
   --TusimpleTesting_root /path/to/tusimple/test_set/ \
   --testmodel model.pkl
 ```
