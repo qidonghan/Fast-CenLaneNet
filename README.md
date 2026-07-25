@@ -48,7 +48,7 @@ Download the pretrained model:
 
 ```text
 Link: https://pan.baidu.com/s/12Re_kIcS4Paq4JFFIODyHg
-Code: txxx
+Code: tcdu
 ```
 Evaluating tusimple:
 
